@@ -10,4 +10,10 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIButton *result;
+
+@property(nonatomic, assign)int *init_board;
+
+- (IBAction)buttonNumber:(id)sender;
+
 @end
