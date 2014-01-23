@@ -80,5 +80,4 @@ void init_board(int board[B][B]){
 //    }
 //}
 
-
 @end
