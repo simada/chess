@@ -48,7 +48,6 @@ int n=0, m=0;
 //    }
 }
 
-
 void init_board(int board[B][B]){
     for (i = 0; i < B; i++) {
         for (j = 0; j < B; j++) {
